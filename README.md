@@ -8,4 +8,4 @@ Python3.10 - Telegram Bot Fisher
 <code>pip install -r requirements.txt</code>
 
 # Запускаем скрипт:
-<code>python TeleFish.py</code>
+<code>python telefish.py</code>
